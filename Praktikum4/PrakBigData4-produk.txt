@@ -1,0 +1,21 @@
+id,nama,harga,stok
+1,Kopi,15000,100
+2,Tee,10000,200
+3,Gula,5000,150
+4,Susu,12000,80
+5,Biskuit,8000,50
+6,Coklat,20000,30
+7,Keripik,12000,60
+8,Saos,10000,40
+9,Sirup,25000,20
+10,Mie Instan,5000,300
+11,Minuman Energi,30000,10
+12,Yoghurt,15000,70
+13,Roti,10000,90
+14,Permen,5000,200
+15,Snack,8000,120
+16,Teh Hijau,15000,50
+17,Bubur Ayam,20000,25
+18,Sereal,12000,100
+19,Minuman Soda,10000,150
+20,Es Krim,25000,40
